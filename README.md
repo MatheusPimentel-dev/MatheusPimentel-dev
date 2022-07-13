@@ -1,33 +1,15 @@
-<h1 align="center">Seja bem-vindo ao meu GitHub 👋</h1>
+## Hey there! Thanks for coming <img width=50 src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" /> 
 
-<div align="center">
-   <img src="https://github.com/MPprogramacao/MPprogramacao/blob/main/github_banner_readme.jpg" alt="header"/>
-</div>
+### About me:
+I'm a 21 year old developer. My github has seen a lot of activity as of late, but that's because I'm studying everyday to become better and better at what I do. It's my passion, really.
+<br>
 
-<h2 align="center">👨🏿‍💻 Quem sou eu </h2>
-<p align="center">
-  Atualmente, estou cursando a Graduação em <b>Sistemas de Informação</b>. <br>E gosto da parte de Desenvolvimento e Criação.
-</p>
-<hr>
+### 📚 I’m currently studying:
+- Task automation with python
+- Web Scraping with python
+- .NET Framework for my TCC
 
-<h2 align="center">🔭 Tecnologias exploradas </h2>
-<p align="center">
-   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-   
-</p>
-<p align="center">
-   Git, GitHub, Python, Java, C#, C, SQL, MySQL, PostgreSQL 
-</p>
 
-<hr>
-<h2 align="center">📫 Entre em contato </h2>
-<p align="center">
-   	<a href="mailto:matheuspimentel.pimentel@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/matheus-pimentel-48a151aa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://m.me/matheuspimentel.pimentel" target="_blank"><img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
-</p>
-<hr>
-<h2 align="center">💻 Veja meus repositório ⬇️</h2>
+### Contact:
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus_Pimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pimentel-dev)](https://www.linkedin.com/in/matheus-pimentel-dev)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuspimentelpimentel@gmail.com)](mailto:matheuspimentelpimentel@gmail.com)
