@@ -1,20 +1,14 @@
-## Hey there! Thanks for coming <img width=50 src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" /> 
+## Hey there! Thanks for coming
 
 ### About me:
-I'm a 22 year old developer. I currently work as a systems analyst at [Scot Consultoria](https://www.scotconsultoria.com.br/) 🐂 .<br>
-My github has seen a lot of activity as of late, but that's because I'm studying everyday to become better and better at what I do. It's my passion, really.
+I'm a back-end developer. I currently work as a junior back-end at [ABC EVO](https://w12.com.br/).<br>
+My github has seen a lot of activity lately, but that's because I'm studying every day to become better and better at what I do.
 <br>
 
-### 📚 I’m currently studying:
-- Task automation with python
-- Web Scraping with python
-- .NET Framework for my TCC
+### 📚 I am currently studying:
+- Task automation with Python
+- .NET Framework
 - Flutterflow
-
-### 🛠️My current tools
-- 🌎 Back-end web with PHP
-- 🖥️ Back-end desktop with C#
-
 
 ### Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Pimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pimentel-dev)](https://www.linkedin.com/in/matheus-pimentel-dev)
